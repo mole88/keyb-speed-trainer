@@ -1,0 +1,50 @@
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Keyboard Speed Simulator.exe
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Keyboard Speed Simulator.deps.json
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Keyboard Speed Simulator.runtimeconfig.json
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Keyboard Speed Simulator.runtimeconfig.dev.json
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Keyboard Speed Simulator.dll
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\ref\Keyboard Speed Simulator.dll
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Keyboard Speed Simulator.pdb
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Resources.baml
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Windows\StatisticsWindow.baml
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Windows\CustomTextWindow.g.cs
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Windows\StatisticsWindow.g.cs
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\App.g.cs
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Keyboard Speed Simulator_MarkupCompile.cache
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Keyboard Speed Simulator_MarkupCompile.lref
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\App.baml
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Windows\CustomTextWindow.baml
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Keyboard Speed Simulator.g.resources
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\KeyboardSpeedSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\KeyboardSpeedSimulator.AssemblyInfoInputs.cache
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\KeyboardSpeedSimulator.AssemblyInfo.cs
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\KeyboardSpeedSimulator.csproj.CoreCompileInputs.cache
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Keyboard Speed Simulator.dll
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\ref\Keyboard Speed Simulator.dll
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\Keyboard Speed Simulator.pdb
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\KeyboardSpeedSimulator.genruntimeconfig.cache
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text0.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text1.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text2.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text3.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text4.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text5.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text6.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text7.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text8.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\EngTexts\Text9.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text0.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text1.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text2.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text3.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text4.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text5.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text6.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text7.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text8.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\RusTexts\Text9.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\obj\Release\net5.0-windows\KeyboardSpeedSimulator.csproj.AssemblyReference.cache
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\СustomTexts\Kek.txt
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\Texts\СustomTexts\Eng-Rus common words.txt

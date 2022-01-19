@@ -1,0 +1,5 @@
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\publish\Keyboard Speed Simulator.exe
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\publish\Keyboard Speed Simulator.dll
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\publish\Keyboard Speed Simulator.deps.json
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\publish\Keyboard Speed Simulator.runtimeconfig.json
+C:\Users\gospo\Desktop\C#\KeyboardSpeedSimulator\KeyboardSpeedSimulator\bin\Release\net5.0-windows\publish\Keyboard Speed Simulator.pdb
